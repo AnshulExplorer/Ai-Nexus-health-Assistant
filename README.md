@@ -45,10 +45,12 @@ npm run dev
 Then open http://localhost:5173 in your browser.
 ## 📷 Screenshots
 
-ss.png
+### 🏠 Home Screen
+![Home Screen](https://raw.githubusercontent.com/AnshulExplorer/Ai-Nexus-health-Assistant/main/screenshots/ss.png)
 
 ### 💬 AI Chat Interface
-ss2.png
+![Chat Interface](https://raw.githubusercontent.com/AnshulExplorer/Ai-Nexus-health-Assistant/main/screenshots/ss2.png)
+
 
 
 
