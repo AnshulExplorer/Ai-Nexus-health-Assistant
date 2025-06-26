@@ -46,11 +46,11 @@ Then open http://localhost:5173 in your browser.
 ## 📷 Screenshots
 
 ### 🏠 Home Screen
-![ss](https://github.com/user-attachments/assets/d4600ebe-a2f8-4a9b-8355-1f28068fce8f)
+
 
 
 ### 💬 AI Chat Interface
-![ss2](https://github.com/user-attachments/assets/05551ca8-6eaf-4412-9799-974c651911e6)
+
 
 
 
