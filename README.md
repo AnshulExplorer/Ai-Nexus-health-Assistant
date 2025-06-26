@@ -50,6 +50,10 @@ Then open http://localhost:5173 in your browser.
 
 
 ### 💬 AI Chat Interface
+![ss](https://github.com/user-attachments/assets/b1847de4-179e-4449-a41d-3fc86e6b48c3)
+![ss](https://github.com/user-attachments/assets/b1847de4-179e-4449-a41d-3fc86e6b48c3)
+![ss2](https://github.com/user-attachments/assets/599d446e-69d5-4dbe-b5b0-42ead4fe17dc)
+![ss2](https://github.com/user-attachments/assets/599d446e-69d5-4dbe-b5b0-42ead4fe17dc)
 
 
 
