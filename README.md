@@ -43,10 +43,14 @@ Copy
 Edit
 npm run dev
 Then open http://localhost:5173 in your browser.
-📷 Screenshots
-🏠 Home Screen
+## 📷 Screenshots
 
-💬 AI Chat Interface
+### 🏠 Home Screen
+![Home](screenshots/ss.png)
+
+### 💬 AI Chat Interface
+![Chat](screenshots/ss2.png)
+
 
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change or add.
