@@ -45,11 +45,10 @@ npm run dev
 Then open http://localhost:5173 in your browser.
 ## 📷 Screenshots
 
-### 🏠 Home Screen
-![Home Screen](screenshots/ss.png)
+ss.png
 
 ### 💬 AI Chat Interface
-![Chat Interface](screenshots/ss2.png)
+ss2.png
 
 
 
