@@ -46,10 +46,11 @@ Then open http://localhost:5173 in your browser.
 ## 📷 Screenshots
 
 ### 🏠 Home Screen
-screenshots/ss.png
+![Home Screen](screenshots/ss.png)
 
 ### 💬 AI Chat Interface
-screenshots/ss2.png
+![Chat Interface](screenshots/ss2.png)
+
 
 
 🤝 Contributing
