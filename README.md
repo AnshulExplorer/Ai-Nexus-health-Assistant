@@ -23,6 +23,15 @@ An AI-powered assistant built to support patients during their **post-health rec
 - **Deployment**: GitHub Pages, Firebase Hosting, or Vercel
 
 ---
+## 📷 Screenshots
+
+### 🏠 Home Screen
+![ss](https://github.com/user-attachments/assets/872661ad-dcfc-4f4b-a24e-0ac757c593b4)
+
+### 💬 AI Chat Interface
+
+![ss2](https://github.com/user-attachments/assets/7c11d72c-014f-4802-a717-64c5fec56468)
+
 
 ## 🚀 How to Run Locally
 
@@ -43,15 +52,6 @@ Copy
 Edit
 npm run dev
 Then open http://localhost:5173 in your browser.
-## 📷 Screenshots
-
-### 🏠 Home Screen
-![ss](https://github.com/user-attachments/assets/872661ad-dcfc-4f4b-a24e-0ac757c593b4)
-
-### 💬 AI Chat Interface
-
-![ss2](https://github.com/user-attachments/assets/7c11d72c-014f-4802-a717-64c5fec56468)
-
 
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change or add.
